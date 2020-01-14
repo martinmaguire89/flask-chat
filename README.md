@@ -1,7 +1,4 @@
-# Code Institute
+#Flask-chat App
+This is a chat application written in Flask.  This purpose of this project is to 
+take data from a URL and store the information in a list.
 
-Welcome martinmaguire89,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
